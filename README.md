@@ -24,10 +24,14 @@ To learn more about the project, feel free to open an issue and ping me @Siddhan
 
 To be implemented:
 React-Redux client.
+Automated testing. 
 
 To see the implementation:
 Download Postman
-Linux:  `snap install postman`  
+Linux:  `snap install postman` 
+
+Go ahead install postman and try out various test cases. 
+ 
 and go to following endpoints
 
 `http://localhost:8000/api/users/register`
