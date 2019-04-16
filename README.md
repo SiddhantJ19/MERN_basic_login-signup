@@ -32,7 +32,11 @@ and go to following endpoints
 
 `http://localhost:8000/api/users/register`
  here is a screenshot of what fields are required
+ ![registerAPI](https://user-images.githubusercontent.com/38999317/56204180-78ba9280-6064-11e9-8a6c-3a4fae2a7acd.png)
 
 `http://localhost:8000/api/users/login`
+![loginAPI](https://user-images.githubusercontent.com/38999317/56204181-79532900-6064-11e9-85fa-395722060a4a.png)
 
 `http://localhost:8000/api/users/confirmation/2263b40af3095a8ad154891a96673c98`
+
+![EmailConfirmationAPI](https://user-images.githubusercontent.com/38999317/56204183-79532900-6064-11e9-9efd-80d57d2ed587.png)
